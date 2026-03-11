@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
-    "build": "npm install next@14.3.1 && next build",
+    "build": "npm install next@14.2.35 && next build",
     "start": "next start"
   },
   "dependencies": {
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "19.0.0",
+    "react-dom": "19.2.0",
     "next-auth": "4.24.13",
-    "googleapis": "119.0.0"
+    "googleapis": "146.0.0"
   }
 }
